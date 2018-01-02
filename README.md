@@ -1,5 +1,5 @@
 # Civilwarnings
-Implementation of Civil Warnings from German BKK to DAPNET
+Implementation of Civil Warnings from German BBK to DAPNET
 
 # Ideen für Algorithmus und Behandlung
 
